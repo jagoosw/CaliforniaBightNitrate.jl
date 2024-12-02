@@ -55,3 +55,6 @@ examples/OceanBioME_example_data
 
 # VSCode
 .vscode
+
+# the data file
+data
