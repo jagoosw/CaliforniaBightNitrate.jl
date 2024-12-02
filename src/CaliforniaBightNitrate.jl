@@ -1,4 +1,6 @@
-module CaliforniaBiteNitrate
+module CaliforniaBightNitrate
+
+export nitrate
 
 using Artifacts, Interpolations, JLD2
 
