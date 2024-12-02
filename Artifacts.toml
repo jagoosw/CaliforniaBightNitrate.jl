@@ -1,0 +1,6 @@
+[SBCLTER]
+git-tree-sha1 = "d586ad2b5628addba1213e468c8d9597ba4432c0"
+
+    [[SBCLTER.download]]
+    sha256 = "298ede9ab14c446b82e18bcc58dae27f563a6bc6f19a4c2993d310a8b0090937"
+    url = "https://github.com/jagoosw/SBCLTER_Data/raw/refs/heads/main/artifact.tar.gz"
